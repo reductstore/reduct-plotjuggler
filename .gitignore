@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+# virtual environment
+.venv/
+venv/
+env/

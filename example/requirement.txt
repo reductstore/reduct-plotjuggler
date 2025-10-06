@@ -1,0 +1,5 @@
+jupyterlab
+reduct-py
+pillow
+matplotlib
+pandas
