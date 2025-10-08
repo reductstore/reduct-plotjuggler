@@ -40,7 +40,13 @@
 # debug information files
 *.dwo
 
+# Build directories
+build/
+
 # virtual environment
 .venv/
 venv/
 env/
+
+# img folder
+img/
